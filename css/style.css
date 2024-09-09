@@ -5,3 +5,9 @@
 .color-enlace{
     color: white;
 }
+
+.jumbotron{
+    background-image: url("../img/images.jpg");
+    background-size: cover;
+    color:white
+}
